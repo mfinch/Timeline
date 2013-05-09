@@ -16,11 +16,11 @@
   }
   
   /*
-    Initialize with Tabletop.init( { key: '0AjAPaAU9MeLFdHUxTlJiVVRYNGRJQnRmSnQwTlpoUXc' } )
+    Initialize with Tabletop.init( { key: '0AtPLAvHWdDG4dHE3X1JxREMxWERMZHkzMFMwQXhtb0E' } )
       OR!
-    Initialize with Tabletop.init( { key: 'https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0AjAPaAU9MeLFdHUxTlJiVVRYNGRJQnRmSnQwTlpoUXc&output=html&widget=true' } )
+    Initialize with Tabletop.init( { key: 'https://docs.google.com/spreadsheet/pub?key=0AtPLAvHWdDG4dHE3X1JxREMxWERMZHkzMFMwQXhtb0E&output=html' } )
       OR!
-    Initialize with Tabletop.init('0AjAPaAU9MeLFdHUxTlJiVVRYNGRJQnRmSnQwTlpoUXc')
+    Initialize with Tabletop.init('0AtPLAvHWdDG4dHE3X1JxREMxWERMZHkzMFMwQXhtb0E')
   */
 
   "use strict";
